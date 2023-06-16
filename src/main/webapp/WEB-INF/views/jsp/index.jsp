@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>16_Welcome To Arcadmy Technologies, Madhapur, Hyderabad.Telangana</h2>
+			<h2>17_Welcome To Arcadmy Technologies, Madhapur, Hyderabad.Telangana</h2>
 			<h3>Contact @ +91-9491442131</h3>
 		</div>
 	</div>
